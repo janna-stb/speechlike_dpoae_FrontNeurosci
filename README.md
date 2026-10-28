@@ -2,7 +2,7 @@
 
 This repository contains the code used in our study on **distortion product otoacoustic emissions (DPOAEs)** evoked by human running speech (speech-DPOAEs).
 
-If you use this code, **please cite**: [https://doi.org/10.1101/2025.08.15.670505](https://doi.org/10.1101/2025.08.15.670505)  
+If you use this code, **please cite**: [[https://doi.org/10.1101/2025.08.15.670505](https://doi.org/10.3389/fnins.2026.1756386)]
 
 The repository includes:
 - **Stimulus generation** code to reproduce (or modify) the stimuli used in our experiment. This part works independently of our experimental setup and can be directly applied (“plug-and-play”).
@@ -79,6 +79,6 @@ The dataset used in our publication, including recorded speech-DPOAE data, speec
 ## Citation
 If you use this repository in your research, please cite our paper:
 
-> Steinebach J and Reichenbach T. *Attention to Speech Modulates Distortion Product Otoacoustic Emissions Evoked by Speech-derived Stimuli in Humans*. bioRxiv 2025.08.15.670505; doi: [https://doi.org/10.1101/2025.08.15.670505](https://doi.org/10.1101/2025.08.15.670505)
+> Steinebach J and Reichenbach T (2026) Attention to speech modulates distortion product otoacoustic emissions evoked by speech-derived stimuli in humans. Front. Neurosci. 20:1756386. doi: 10.3389/fnins.2026.1756386
 
 A `CITATION.cff` file is provided for automated citation tools.
